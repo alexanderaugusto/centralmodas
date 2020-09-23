@@ -1,0 +1,11 @@
+.card-main{
+  border-width: 1px !important;
+  border-color: rgba(0, 153, 204, 1) !important;
+  border-style: solid !important;
+  border-radius: 5px !important;
+}
+
+.list-group-brand{
+  max-height: 200px;
+  overflow: scroll;
+}
